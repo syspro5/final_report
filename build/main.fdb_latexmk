@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1582006458 "build/main.dvi" "build/main.pdf" "build/main" 1582006464
-  "build/main.dvi" 1582006458 15872 6d3578164cd37dd8de1b901780d77d28 "latex"
+["dvipdf"] 1582006780 "build/main.dvi" "build/main.pdf" "build/main" 1582006785
+  "build/main.dvi" 1582006780 19292 96fd8147ebf2be8259186ff76d8595df "latex"
   (generated)
   "build/main.pdf"
-["latex"] 1582006450 "d:/Documents/titech/H31_SS3/ss3_final/main.tex" "build/main.dvi" "main" 1582006464
-  "build//main.aux" 1582006458 4141 12c5dbb842de5849b427d054bd0f7cae ""
-  "build/main.aux" 1582006458 4141 12c5dbb842de5849b427d054bd0f7cae ""
+["latex"] 1582006771 "d:/Documents/titech/H31_SS3/ss3_final/main.tex" "build/main.dvi" "main" 1582006785
+  "build//main.aux" 1582006780 4242 d1d8342debe86dc16707ca1430adf533 ""
+  "build/main.aux" 1582006780 4242 d1d8342debe86dc16707ca1430adf533 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1555233563 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1555237863 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1555237863 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -87,7 +87,7 @@
   "c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1555234524 6061 1242b5308ecb0db77c71c1ff6c687ace ""
   "c:/texlive/2018/texmf-var/web2c/eptex/platex.fmt" 1555240603 4482284 394e6362422293a33bcf0290b733dfd7 ""
   "c:/texlive/2018/texmf.cnf" 1555240397 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "d:/Documents/titech/H31_SS3/ss3_final/main.tex" 1582006440 13725 5c30720c68368c75e314d69bd2c8e0e5 ""
+  "d:/Documents/titech/H31_SS3/ss3_final/main.tex" 1582006762 16108 da96ffaf14e4a462d244e9779d86eda6 ""
   "fig/iw1131.png" 1582006056 103091 be3e0ae214afe946c2ec739066ae23ba ""
   "fig/iw1132.png" 1582006056 248323 6244f186de0220667fbbebd8579f8470 ""
   "fig/iw1133.png" 1582006056 414390 b847433e3cc10c445a3854786299db7d ""
@@ -99,11 +99,11 @@
   "fig/vote.png" 1582006381 49356 1f0b46abd9d14edd930c5d5525d00d3f ""
   "fig/voterate.jpg" 1582006381 122070 5f52b81fa25641af939e421546dacdef ""
   "fig/vtube.png" 1582006381 126482 81ab29057ce47f753989b01c2f888402 ""
-  "main.tex" 1582006440 13725 5c30720c68368c75e314d69bd2c8e0e5 ""
+  "main.tex" 1582006762 16108 da96ffaf14e4a462d244e9779d86eda6 ""
   (generated)
-  "build/main.log"
-  "build//main.log"
-  "build/main.dvi"
-  "build//main.aux"
   "build/main.aux"
+  "build/main.dvi"
   "build//main.dvi"
+  "build//main.log"
+  "build//main.aux"
+  "build/main.log"
